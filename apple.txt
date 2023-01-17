@@ -1,0 +1,49 @@
+						Power Source Are Not Included in the projects
+
+Smart Dustbin
+Materials required:
+1.Nano V3.0 ATMEGA328P micro-controller board Rs 800.00
+2.HC-SR04 ultrasonic sensor Rs 250.00
+3.SG90 4.8V~6V 9g Micro Servo Motor Rs 305.00
+4.Jummer Cable Included above
+5.Toggle switch Or ON OFF Rocker Switch Rs 50 Or Rs 10
+
+
+Water/Handwash Dispenser
+Materials required:
+1.TIP32C Transistor Rs 50.00
+2.DC3v-6v 5v Small Submersible Waterproof Rs 250.00
+3.IR Infrared Sensor Switch Module Rs 90.00
+4.Resistor kit Rs 120
+
+Obstracle avoiding robert
+Materials required: 
+1.Aurdino Uno (UNO ATMEGA328P-PU Development Board) Rs 1800.00
+2.Motor Drive Shield Expansion Board L293D Duemilanove Mega2560 UNO Rs 500.00
+3.SG90 4.8V~6V 9g Micro Servo Motor Rs 305.00
+4.HC-SR04 ultrasonic sensor Rs 250.00
+5.Smart Car Robot Plastic Tire Wheel Rs 60.00 *4 
+6.DC 3V-6V 1:90 Metal Gear Motor All Metal Single Axis Gear Motor Rs 350.00 *4
+7.Jummer Cable Included above
+8.Toggle switch Or ON OFF Rocker Switch Rs 50 Or Rs 10
+
+Aurdino Controlled Smart Bulb
+Materials required: 
+1.Aurdino Uno     RS 1800
+2.5V 1 channel relay module with optocoupler   RS 200
+3.Wireless transmission serial BLE module HC 05     RS 650
+
+Finger print door lock
+Materials required: 
+1.12V DC Mini Small Solenoid Lock Electromagnetic Electric Control Cabinet Drawer Lock Rs 600.00
+2.Aurdino Uno (UNO ATMEGA328P-PU Development Board) Rs 1800.00
+3.Fingerprint Sensor R305 Rs 2800.00
+4.IRFZ44N Transistor Rs 50.00
+5.Jumpers Included above
+6.Toggle switch Or ON OFF Rocker Switch Rs 50 Or Rs 10
+
+
+Other materials:
+Glue rod:5 * Rs 20
+
+And delivery charge Rs 180
